@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "satie": {
+      "type": "http",
+      "url": "https://www.satie.world/mcp"
+    }
+  }
+}

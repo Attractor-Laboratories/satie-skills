@@ -1,0 +1,33 @@
+{
+  "name": "satie-skills",
+  "owner": {
+    "name": "Attractor Labs",
+    "email": "mateo@attractor.world",
+    "url": "https://www.satie.world"
+  },
+  "metadata": {
+    "description": "Satie: spatial audio for 3D worlds, through the Satie MCP server.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "satie",
+      "source": "./plugins/satie",
+      "description": "Spatial audio for 3D worlds: the Satie MCP server (remote, OAuth), the satie-sound-for-worlds skill and a sound reviewer agent that runs the free audits.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Attractor Labs",
+        "email": "mateo@attractor.world",
+        "url": "https://www.satie.world"
+      },
+      "homepage": "https://www.satie.world/developers",
+      "keywords": [
+        "audio",
+        "spatial-audio",
+        "game-audio",
+        "three.js",
+        "mcp"
+      ]
+    }
+  ]
+}
