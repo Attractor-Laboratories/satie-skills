@@ -2,7 +2,7 @@
 
 ## Three.js maintained adapter
 
-Install: npm install https://www.satie.world/runtime/0.4.4/satie-runtime.tgz
+Install: npm install satie-runtime@0.4.4
 
 
 
