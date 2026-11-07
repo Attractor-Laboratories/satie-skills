@@ -33,7 +33,7 @@ The long form (briefing, behavior discovery, listening corrections, host lifecyc
 
 - references/tools.md: every tool in long form (the tool list carries only the short descriptions): what it is for, what it costs, what to do with the result.
 - references/briefing.md: what to put in the brief and the manifest, what each interaction becomes, cost.
-- references/behavior.md: discovering behavior in host code, the behavior contract, the host lifecycle.
+- references/behavior.md: discovering behavior in host code, filling the behavior contract (kinds, authorities, scripted games), the host lifecycle.
 - references/threejs.md, references/r3f.md, references/web.md: the install and the glue, the badge and the mixer.
 - references/events-signals-states.md: one surface map per host, the player's sounds on the listener, transient hosts, signal targets with smoothing, state groups; the host map (hosts.json) and the developer's edit log.
 - references/listening-and-release.md: captures, listening with references, release review.
